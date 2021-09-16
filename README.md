@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Linusmugera 👀 I’m interested in web and mobile app development
-🌱 I’m currently learning flutter and web development languages
-💞️ I’m looking to collaborate on web and mobile development projects from any invite
+- 👋 Hi, I’m @Linusmugera, I’m interested in web and mobile app development.
+ I’m currently learning flutter and web development languages.
+- 💞️ I’m looking to collaborate on web and mobile development projects from any invite.
 📫 reach me at mugeralinus3@gmail.com or via whatsapp 0740758955
 
 <!---
