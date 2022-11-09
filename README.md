@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Linus_mugera, a front-end developer 
+- 👋 Hi, I’m @Linus_mugera, a MERN-Stack developer 
 - 💞️ I’m looking to collaborate on web and mobile development projects from any invite.
 📫 reach me at mugeralinus3@gmail.com or via whatsapp +254740758955
 
